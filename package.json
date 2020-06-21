@@ -1,0 +1,28 @@
+{
+  "name": "words-to-date-es",
+  "version": "0.0.1",
+  "description": "Converts spanish words to dates",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucachaco/words-to-date-es.git"
+  },
+  "keywords": [
+    "words",
+    "to",
+    "date",
+    "spanish"
+  ],
+  "author": "luiscarlosch@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lucachaco/words-to-date-es/issues"
+  },
+  "homepage": "https://github.com/lucachaco/words-to-date-es#readme",
+  "dependencies": {
+    "words-to-numbers-es": "^0.1.0"
+  }
+}
