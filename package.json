@@ -1,6 +1,6 @@
 {
   "name": "words-to-date-es",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Converts spanish words to dates",
   "main": "src/index.js",
   "scripts": {
