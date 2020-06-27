@@ -14,7 +14,6 @@ const captureTimeAndDate = (str) =>{
 
 module.exports = function (words) {
     const response = captureTimeAndDate(stripAccents(words));
-    console.log(response);
     const hour = evaluate(response[1]);
     const minute = evaluate(response[2]);
     const day = evaluate(response[3]);
