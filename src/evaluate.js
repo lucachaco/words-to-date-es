@@ -19,5 +19,5 @@ module.exports = function (words) {
     const day = evaluate(response[3]);
     const month = response[4];
     const year = evaluate(response[10]);
-    return `${day}-${months[month]}-${year} ${hour}:${minute}:00`
+    return `${year}-${months[month]}-${day} ${hour}:${minute}:00`
 };
